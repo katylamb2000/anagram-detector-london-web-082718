@@ -6,7 +6,7 @@ def initialize (word)
   @word = word
 end
 
-def match
+def anagram (word)
   %w()
 end
 end
