@@ -7,6 +7,9 @@ def initialize (word)
 end
 
 def anagram (word)
-  %w()
+  words = %w()
 end
+
+def match (words)
+  words.each do |word|
 end
